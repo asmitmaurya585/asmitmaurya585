@@ -1,29 +1,25 @@
-<h1 align="center">
-Hi 👋 I'm Asmit Kumar Maurya
-</h1>
+<h1 align="center">Hi 👋, I'm Asmit Kumar Maurya</h1>
 
 <h3 align="center">
-Azure DevOps Engineer | Azure Cloud | Terraform | CI/CD | Docker | Kubernetes (AKS)
+Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes (AKS) | CI/CD | DevSecOps
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1200&color=0078D4&center=true&vCenter=true&width=900&lines=Azure+DevOps+Engineer;Terraform+%7C+Azure+Cloud;Docker+%7C+Kubernetes+(AKS);Infrastructure+as+Code;Cloud+Automation+%7C+DevSecOps"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1200&color=0078D4&center=true&vCenter=true&width=900&lines=Azure+DevOps+Engineer;Terraform+Expert;Azure+Cloud;Docker+%7C+Kubernetes+(AKS);Infrastructure+as+Code;CI%2FCD+Automation;DevSecOps;Cloud+Automation"/>
 </p>
-
----
 
 <p align="center">
 
-<a href="https://linkedin.com/in/asmit-maurya">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/asmitmaurya585">
+<img src="https://komarev.com/ghpvc/?username=asmitmaurya585&label=Profile+Views&color=0078D4&style=for-the-badge"/>
 </a>
 
-<a href="mailto:asmitmaurya585@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/asmitmaurya585?tab=followers">
+<img src="https://img.shields.io/github/followers/asmitmaurya585?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/asmitmaurya585">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/asmitmaurya585?style=for-the-badge"/>
 </a>
 
 </p>
@@ -43,13 +39,17 @@ Cloud       : Microsoft Azure
 
 IaC         : Terraform
 
-Containers  : Docker & Kubernetes (AKS)
+Containers  : Docker
+
+Orchestration : Kubernetes (AKS)
 
 CI/CD       : Azure DevOps
 
 OS          : Linux
 
-Automation  : Bash | Azure CLI
+Automation  : Bash | Azure CLI | PowerShell
+
+Programming : Python
 
 DevSecOps   : SonarQube | Checkov | Trivy | TFLint
 ```
@@ -60,106 +60,138 @@ DevSecOps   : SonarQube | Checkov | Trivy | TFLint
 
 <p align="center">
 
-<a href="https://azure.microsoft.com/">
-<img src="https://skillicons.dev/icons?i=azure"/>
-</a>
+<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,linux,bash,python,git,github"/>
 
-<a href="https://developer.hashicorp.com/terraform">
-<img src="https://skillicons.dev/icons?i=terraform"/>
-</a>
+</p>
 
-<a href="https://azure.microsoft.com/products/devops">
+<p align="center">
+
 <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops"/>
-</a>
 
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker"/>
-</a>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm"/>
 
-<a href="https://kubernetes.io/">
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-</a>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
 
-<a href="https://kernel.org/">
-<img src="https://skillicons.dev/icons?i=linux"/>
-</a>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
 
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://skillicons.dev/icons?i=bash"/>
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python"/>
-</a>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube"/>
 
 </p>
 
 ---
 
-# ☁️ Azure Expertise
+# ☁ Azure Expertise
 
-✔ Azure Virtual Machines
-
-✔ Azure Virtual Network (VNet)
-
-✔ NSG
-
-✔ Load Balancer
-
-✔ Application Gateway
-
-✔ VNet Peering
-
-✔ VPN Gateway
-
-✔ Private Endpoint
-
-✔ Azure RBAC
-
-✔ Azure Policy
-
-✔ Azure CLI
+- Azure Virtual Machines
+- Azure Virtual Network
+- NSG
+- Application Gateway
+- Azure Load Balancer
+- Azure Firewall
+- Azure Bastion
+- Azure Key Vault
+- Azure Storage
+- Azure Monitor
+- Log Analytics
+- Azure Policy
+- Azure RBAC
+- Azure DNS
+- Azure Backup
+- Azure Site Recovery
+- Azure CLI
 
 ---
 
-# ⚡ DevOps & DevSecOps
+# 🚀 DevOps & DevSecOps
 
-- Azure DevOps
-- YAML Pipelines
-- CI/CD Automation
-- Infrastructure as Code (Terraform)
+- Azure DevOps Pipelines
+- GitHub Actions
+- Terraform
 - Docker
 - Kubernetes (AKS)
+- Helm
 - SonarQube
 - Checkov
 - Trivy
 - TFLint
 - Git
 - Bash
+- Python
 
 ---
 
-# 🎯 Current Focus
+# 🔄 CI/CD Workflow
 
-- ☁ Azure Infrastructure Automation
+```text
+Developer
+      │
+      ▼
+GitHub Repository
+      │
+      ▼
+Pull Request
+      │
+      ▼
+Azure DevOps Pipeline
+      │
+      ├── Terraform fmt
+      ├── Terraform Validate
+      ├── Terraform Plan
+      ├── Checkov
+      ├── TFLint
+      ├── Trivy
+      ▼
+Approval
+      ▼
+Terraform Apply
+      ▼
+Azure Infrastructure
+```
 
-- 🏗 Terraform Modules
+---
 
-- 🚀 CI/CD Pipeline Optimization
+# ☸ Kubernetes
 
-- ☸ Kubernetes (AKS)
+- AKS Deployment
+- Deployments
+- Services
+- Ingress
+- ConfigMaps
+- Secrets
+- Helm Charts
+- HPA
+- Rolling Updates
+- Namespaces
 
-- 🔐 DevSecOps
+---
 
-- 📊 Monitoring
+# 📦 Terraform Modules
+
+- Azure VM
+- VNet
+- NSG
+- Storage Account
+- Key Vault
+- Application Gateway
+- Load Balancer
+- Azure Firewall
+- AKS
+- Bastion Host
+
+---
+
+# 📊 Skill Matrix
+
+| Technology | Level |
+|------------|-------|
+| Azure | ⭐⭐⭐⭐⭐ |
+| Terraform | ⭐⭐⭐⭐⭐ |
+| Azure DevOps | ⭐⭐⭐⭐⭐ |
+| Docker | ⭐⭐⭐⭐ |
+| Kubernetes | ⭐⭐⭐⭐ |
+| Linux | ⭐⭐⭐⭐ |
+| Bash | ⭐⭐⭐⭐ |
+| Python | ⭐⭐⭐ |
 
 ---
 
@@ -169,14 +201,36 @@ DevSecOps   : SonarQube | Checkov | Trivy | TFLint
 |----------|-------------|
 | Azure Landing Zone | Enterprise Landing Zone using Terraform |
 | Hub-Spoke Network | Azure Networking using Terraform |
-| Azure Application Gateway | Multi-site Routing |
 | AKS Deployment | Kubernetes Cluster on Azure |
+| Azure Firewall | Secure Azure Networking |
 | Azure VM Automation | Complete VM Deployment |
 | Azure DevOps Pipeline | YAML CI/CD |
+| Terraform Modules | Reusable Infrastructure Modules |
 
 ---
 
-# 📊 GitHub Statistics
+# 🎯 Current Focus
+
+- Azure Landing Zone
+- Terraform Modules
+- Azure DevOps Pipelines
+- AKS Production
+- DevSecOps
+- GitOps
+- Monitoring
+
+---
+
+# 🏅 Certifications
+
+- ✅ Microsoft Azure Fundamentals (AZ-900)
+- ✅ Azure Administrator Associate (AZ-104)
+- 🎯 Preparing Azure DevOps Engineer Expert (AZ-400)
+- 🎯 Terraform Associate
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -198,7 +252,7 @@ DevSecOps   : SonarQube | Checkov | Trivy | TFLint
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -212,7 +266,7 @@ DevSecOps   : SonarQube | Checkov | Trivy | TFLint
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=asmitmaurya585&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=asmitmaurya585&theme=tokyonight&margin-w=15&row=2&column=4"/>
 
 </p>
 
@@ -228,37 +282,62 @@ DevSecOps   : SonarQube | Checkov | Trivy | TFLint
 
 ---
 
-# 📫 Contact
+# 💬 Random Dev Quote
 
-📧 Email
+<p align="center">
 
-**asmitmaurya585@gmail.com**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-💼 LinkedIn
+</p>
 
-**linkedin.com/in/asmit-maurya**
+---
 
-💻 GitHub
+# 🌱 Currently Learning
 
-**github.com/asmitmaurya585**
+- GitOps
+- ArgoCD
+- Azure Monitor
+- Prometheus
+- Grafana
+- Helm
+- Azure Security
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:asmitmaurya585@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/asmit-maurya">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/asmitmaurya585">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
 ---
 
 # 💡 Philosophy
 
-> **Automating Infrastructure**
+> 🚀 Automate Everything
 
-> **Building Secure Cloud Platforms**
+> ☁ Build Secure Cloud Platforms
 
-> **Writing Reusable Terraform Modules**
+> 📦 Write Reusable Terraform Modules
 
-> **Delivering Reliable CI/CD Pipelines**
+> 🔄 Deliver Reliable CI/CD Pipelines
 
-> **Always Learning New Cloud Technologies**
+> 📚 Never Stop Learning
 
 ---
 
-<p align="center">
-
+<h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
-
-</p>
+</h3>
