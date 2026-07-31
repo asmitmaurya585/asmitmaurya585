@@ -109,7 +109,6 @@ DevSecOps   : SonarQube | Checkov | Trivy | TFLint
 - Terraform
 - Docker
 - Kubernetes (AKS)
-- Helm
 - SonarQube
 - Checkov
 - Trivy
@@ -175,6 +174,7 @@ Azure Infrastructure
 - Application Gateway
 - Load Balancer
 - Azure Firewall
+- log Anlaytic
 - AKS
 - Bastion Host
 
@@ -187,8 +187,8 @@ Azure Infrastructure
 | Azure | ⭐⭐⭐⭐⭐ |
 | Terraform | ⭐⭐⭐⭐⭐ |
 | Azure DevOps | ⭐⭐⭐⭐⭐ |
-| Docker | ⭐⭐⭐⭐ |
-| Kubernetes | ⭐⭐⭐⭐ |
+| Docker | ⭐⭐⭐ |
+| Kubernetes | ⭐⭐⭐ |
 | Linux | ⭐⭐⭐⭐ |
 | Bash | ⭐⭐⭐⭐ |
 | Python | ⭐⭐⭐ |
@@ -223,8 +223,6 @@ Azure Infrastructure
 
 # 🏅 Certifications
 
-- ✅ Microsoft Azure Fundamentals (AZ-900)
-- ✅ Azure Administrator Associate (AZ-104)
 - 🎯 Preparing Azure DevOps Engineer Expert (AZ-400)
 - 🎯 Terraform Associate
 
@@ -301,6 +299,8 @@ Azure Infrastructure
 - Grafana
 - Helm
 - Azure Security
+- kubernetes (AKS)
+- Docker
 
 ---
 
