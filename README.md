@@ -1,10 +1,10 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0078D4,100:00F0FF&height=240&section=header&text=ASMIT%20KUMAR%20MAURYA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%E2%9A%A1%20Azure%20DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20IaC%20Specialist&descAlignY=62&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0078D4,100:00F0FF&height=260&section=header&text=ASMIT%20KUMAR%20MAURYA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Azure%20DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20IaC%20Specialist&descAlignY=58&descSize=20"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=%3E+initializing+asmit.sh+...;%3E+Azure+DevOps+Engineer+%E2%98%81%EF%B8%8F;%3E+terraform+apply+--auto-approve+%F0%9F%9A%80;%3E+kubectl+get+pods+-n+production+%E2%98%B8%EF%B8%8F;%3E+Automate+Everything.+Secure+Everything.;%3E+System+Status%3A+ONLINE+%F0%9F%9F%A2"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00A8E8&center=true&vCenter=true&width=700&height=50&lines=%3E+initializing+asmit.sh+...;%3E+Azure+DevOps+Engineer+%E2%98%81%EF%B8%8F;%3E+terraform+apply+--auto-approve+%F0%9F%9A%80;%3E+kubectl+get+pods+-n+production+%E2%98%B8%EF%B8%8F;%3E+Automate+Everything.+Secure+Everything.;%3E+System+Status%3A+ONLINE+%F0%9F%9F%A2"/>
 </p>
 
 <p align="center">
